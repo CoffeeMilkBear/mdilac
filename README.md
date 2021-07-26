@@ -1,13 +1,24 @@
 ### Hi there 👋
 
-I'm David, a student at the University of Toronto studying Statistics and Computer Science, aspiring to be a software engineer!
-
-In addition to programming, I also have a passion for creating social media designs and livestream designs for online personalities.
+I'm David, a student at the University of Toronto studying Statistics and Computer Science. In addition to programming, I also have a passion for creating social media/livestream designs for online personalities!
 
 Feel free to check out some of my Repositories or Designs!
 
 
-📫 Let's Connect!
+
+👯 **Graphic Design**
+
+I design/animate livestream designs using:
+* Adobe CC Photoshop
+* Adobe CC After Effects 
+
+Check out some of my works [here](https://www.twitter.com/strawmilked)!
+
+Email: strawberrymilkgfx@gmail.com
+
+
+
+📫 **Let's Connect!**
 
 Want to have a chat or reach out on a serious note? Please don't hesitate to shoot me an email!
 
