@@ -4,7 +4,7 @@ I'm David, a student at the University of Toronto studying Statistics and Comput
 
 In addition to programming, I also have a passion for creating social media designs and livestream designs for online personalities.
 
-
+Feel free to check out some of my Repositories or Designs!
 
 
 📫 Let's Connect!
