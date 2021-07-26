@@ -1,14 +1,20 @@
 ### Hi there 👋
 
-I'm David, a student at the University of Toronto studying Statistics and Computer Science. In addition to programming, I also have a passion for creating social media/livestream designs for online personalities!
+I'm David Park, a student at the University of Toronto studying Statistics and Computer Science. In addition to programming, I also have a passion for creating social media/livestream designs for online personalities!
 
 Feel free to check out some of my Repositories or Designs!
+
+🌱 **Programming**
+
+
+
 
 
 
 👯 **Graphic Design**
 
-I design/animate livestream designs using:
+I Design/Animate livestream designs using:
+
 * Adobe CC Photoshop
 * Adobe CC After Effects 
 
