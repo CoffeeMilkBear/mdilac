@@ -7,6 +7,12 @@ In addition to programming, I also have a passion for creating social media desi
 
 
 
+📫 Let's Connect!
+
+Want to have a chat or reach out on a serious note? Please don't hesitate to shoot me an email!
+
+
+
 <!--
 **mdilac/mdilac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
