@@ -4,7 +4,6 @@ I'm David Park, a student at the University of Toronto studying Statistics and C
 
 Feel free to check out some of my Repositories or Designs!
 
-🌱 **Programming**
 
 
 
@@ -20,7 +19,6 @@ I Design/Animate livestream designs using:
 
 Check out some of my works [here](https://www.twitter.com/strawmilked)!
 
-Email: strawberrymilkgfx@gmail.com
 
 
 
@@ -28,7 +26,9 @@ Email: strawberrymilkgfx@gmail.com
 
 Want to have a chat or reach out on a serious note? Please don't hesitate to shoot me an email!
 
+davidpark529kr@gmail.com
 
+strawberrymilkgfx@gmail.com (Graphic Design)
 
 <!--
 **mdilac/mdilac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
