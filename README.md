@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm David, a student at the University of Toronto studying Statistics and Computer Science, aspiring to be a software engineer!
+
+In addition to programming, I also have a passion for creating social media designs and livestream designs for online personalities.
+
+
+
+
 <!--
 **mdilac/mdilac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
