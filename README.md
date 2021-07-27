@@ -6,28 +6,11 @@ Feel free to check out some of my Repositories or Designs!
 
 
 
-
-
-
-
-👯 **Graphic Design**
-
-I Design/Animate livestream designs using:
-
-* Adobe CC Photoshop
-* Adobe CC After Effects 
-
-Check out some of my works [here](https://www.twitter.com/strawmilked)!
-
-
-
-
 📫 **Let's Connect!**
 
 Want to have a chat or reach out on a serious note? Please don't hesitate to shoot me an email!
 
 davidpark529kr@gmail.com
-
 strawberrymilkgfx@gmail.com (Graphic Design)
 
 <!--
