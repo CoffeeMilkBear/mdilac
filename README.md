@@ -11,6 +11,7 @@ Feel free to check out some of my Repositories or Designs!
 Want to have a chat or reach out on a serious note? Please don't hesitate to shoot me an email!
 
 davidpark529kr@gmail.com
+
 strawberrymilkgfx@gmail.com (Graphic Design)
 
 <!--
