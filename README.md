@@ -2,7 +2,7 @@
 
 I'm David Park, a student at the University of Toronto studying Statistics and Computer Science. In addition to programming, I also have a passion for creating social media/livestream designs for online personalities!
 
-Feel free to check out some of my Repositories or Designs!
+Feel free to check out some of my [Repositories](https://github.com/mdilac?tab=repositories) or [Designs](https://twitter.com/strawmilked)!
 
 <!--
 **mdilac/mdilac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
